@@ -9,7 +9,7 @@ window_size = (window_width, window_height)
 screen = pygame.display.set_mode(window_size, pygame.RESIZABLE)
 
 # Set the window title
-pygame.display.set_caption("Snake :D")
+pygame.display.set_caption("Snake Game")
 
 # Variables to track full-screen and running state
 is_fullscreen = False
